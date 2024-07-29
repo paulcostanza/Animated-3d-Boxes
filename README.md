@@ -15,3 +15,6 @@ A big issue I had was calculating the image display when the boxes broke apart. 
 > 
 > [Warakami Vaporwave's Tumblr](https://warakami-vaporwave.tumblr.com/)\
 > [Warakami Vaporwave's Instagram](https://www.instagram.com/warakami_vaporwave/)
+
+
+[Click here to check out the app, live and in action](https://paulcostanza.github.io/Animated-3d-Boxes/)
